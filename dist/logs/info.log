@@ -1,1 +1,7 @@
 {"level":30,"time":"15-Jan-2023 01:08:59 059","pid":12564,"hostname":"MSI","name":"UNIT-TEST","msg":"Server started on port 5000 "}
+{"level":30,"time":"15-Jan-2023 17:45:40 040","pid":11568,"hostname":"MSI","name":"UNIT-TEST","msg":"Connected to database - localhost/UNIT-TEST successfully'"}
+{"level":30,"time":"15-Jan-2023 17:45:40 040","pid":11568,"hostname":"MSI","name":"UNIT-TEST","msg":"Server started on port 5000 "}
+{"level":30,"time":"15-Jan-2023 17:45:50 050","pid":11568,"hostname":"MSI","name":"UNIT-TEST","msg":"connection to database closed due to nodejs process termination"}
+{"level":30,"time":"15-Jan-2023 17:47:43 043","pid":18696,"hostname":"MSI","name":"UNIT-TEST","msg":"Connected to database - localhost/UNIT-TEST successfully'"}
+{"level":30,"time":"15-Jan-2023 17:47:43 043","pid":18696,"hostname":"MSI","name":"UNIT-TEST","msg":"Server started on port 5000 "}
+{"level":30,"time":"15-Jan-2023 17:49:33 033","pid":18696,"hostname":"MSI","name":"UNIT-TEST","msg":"connection to database closed due to nodejs process termination"}

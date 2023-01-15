@@ -1,6 +1,6 @@
-import { app } from './app/app';
 import dotenv from 'dotenv';
 dotenv.config();
+import app from './app/app';
 import { log } from './app/config/logger';
 import { Database } from './app/config/db';
 const DB = new Database()

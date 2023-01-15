@@ -38,5 +38,4 @@ export class Database {
     async disconnect() {
         return await mongoose.disconnect();
     }
-};
-
+}
